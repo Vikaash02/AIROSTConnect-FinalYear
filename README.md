@@ -1,4 +1,4 @@
-# **Recommendation Engine Script Documentation**
+# **AIROST Connect Documentation**
 
 ## **Overview**
 The `recommendation_engine.py` script is designed to recommend programs to a user based on their selected categories. It uses **TF-IDF** (Term Frequency-Inverse Document Frequency) and **cosine similarity** to generate recommendations from a set of programs based on a user's preferences. The script accepts input data via command-line arguments, processes it, and outputs the top `n` recommended programs.
