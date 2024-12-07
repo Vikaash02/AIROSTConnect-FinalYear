@@ -1,0 +1,159 @@
+{
+    "programs": [
+      {
+        "name": "AI Basics",
+        "category": "AI",
+        "venue": "Tech Hall A",
+        "date_time": "2024-12-15 10:00",
+        "notes": "Introduction to Artificial Intelligence"
+      },
+      {
+        "name": "Advanced AI Applications",
+        "category": "AI",
+        "venue": "Tech Hall B",
+        "date_time": "2024-12-16 14:00",
+        "notes": "Deep dive into real-world AI applications"
+      },
+      {
+        "name": "IoT Fundamentals",
+        "category": "IoT",
+        "venue": "Conference Room 1",
+        "date_time": "2024-12-17 09:00",
+        "notes": "Basic principles of the Internet of Things"
+      },
+      {
+        "name": "Building Smart Devices with IoT",
+        "category": "IoT",
+        "venue": "Conference Room 2",
+        "date_time": "2024-12-18 11:00",
+        "notes": "Hands-on workshop to build IoT devices"
+      },
+      {
+        "name": "Introduction to Robotics",
+        "category": "Robotics",
+        "venue": "Robotics Lab",
+        "date_time": "2024-12-19 13:00",
+        "notes": "Learn the basics of robotic systems"
+      },
+      {
+        "name": "Robotic Process Automation",
+        "category": "Robotics",
+        "venue": "Robotics Lab",
+        "date_time": "2024-12-20 10:00",
+        "notes": "Learn how automation is transforming industries"
+      },
+      {
+        "name": "Machine Learning for Beginners",
+        "category": "AI",
+        "venue": "Tech Hall A",
+        "date_time": "2024-12-21 09:30",
+        "notes": "An introduction to machine learning"
+      },
+      {
+        "name": "Deep Learning Techniques",
+        "category": "AI",
+        "venue": "Tech Hall B",
+        "date_time": "2024-12-22 10:30",
+        "notes": "A workshop on advanced deep learning techniques"
+      },
+      {
+        "name": "IoT Security Best Practices",
+        "category": "IoT",
+        "venue": "Conference Room 1",
+        "date_time": "2024-12-23 12:00",
+        "notes": "Understanding security in IoT environments"
+      },
+      {
+        "name": "Building AI-Driven IoT Systems",
+        "category": "AI, IoT",
+        "venue": "Conference Room 2",
+        "date_time": "2024-12-24 14:00",
+        "notes": "Combining AI and IoT for smart systems"
+      },
+      {
+        "name": "Robotics in Healthcare",
+        "category": "Robotics, AI",
+        "venue": "Robotics Lab",
+        "date_time": "2024-12-25 15:00",
+        "notes": "Exploring the applications of robotics in healthcare"
+      },
+      {
+        "name": "AI for Autonomous Vehicles",
+        "category": "AI",
+        "venue": "Tech Hall A",
+        "date_time": "2024-12-26 16:00",
+        "notes": "How AI is revolutionizing self-driving technology"
+      },
+      {
+        "name": "Smart City IoT Solutions",
+        "category": "IoT",
+        "venue": "Conference Room 3",
+        "date_time": "2024-12-27 13:00",
+        "notes": "Implementing IoT for smart city development"
+      },
+      {
+        "name": "Introduction to Quantum Computing",
+        "category": "AI",
+        "venue": "Quantum Lab",
+        "date_time": "2024-12-28 09:00",
+        "notes": "An introduction to quantum computing and its future"
+      },
+      {
+        "name": "AI in Finance",
+        "category": "AI",
+        "venue": "Finance Lab",
+        "date_time": "2024-12-29 10:00",
+        "notes": "Exploring the role of AI in modern finance"
+      },
+      {
+        "name": "IoT for Agricultural Solutions",
+        "category": "IoT",
+        "venue": "Agritech Hall",
+        "date_time": "2024-12-30 12:00",
+        "notes": "Leveraging IoT for sustainable agriculture"
+      },
+      {
+        "name": "Industrial Robotics and Automation",
+        "category": "Robotics, AI",
+        "venue": "Industrial Lab",
+        "date_time": "2024-12-31 14:00",
+        "notes": "Robotics for industrial automation"
+      },
+      {
+        "name": "AI for Predictive Analytics",
+        "category": "AI",
+        "venue": "Tech Hall A",
+        "date_time": "2025-01-02 09:00",
+        "notes": "Using AI for data-driven predictions"
+      },
+      {
+        "name": "Advanced Robotics Programming",
+        "category": "Robotics",
+        "venue": "Robotics Lab",
+        "date_time": "2025-01-03 10:00",
+        "notes": "Advanced programming techniques for robots"
+      },
+      {
+        "name": "AI-Powered Chatbots",
+        "category": "AI",
+        "venue": "Tech Hall B",
+        "date_time": "2025-01-04 11:00",
+        "notes": "Developing AI-powered chatbots for business"
+      },
+      {
+        "name": "IoT Data Management",
+        "category": "IoT",
+        "venue": "Conference Room 1",
+        "date_time": "2025-01-05 12:30",
+        "notes": "Managing data in IoT systems"
+      },
+      {
+        "name": "Smart Healthcare Systems",
+        "category": "IoT, AI",
+        "venue": "Healthcare Lab",
+        "date_time": "2025-01-06 14:00",
+        "notes": "The role of IoT and AI in modern healthcare"
+      }
+    ]
+  }
+  
