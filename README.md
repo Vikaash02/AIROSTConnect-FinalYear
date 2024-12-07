@@ -1,7 +1,3 @@
-Sure! Here's a comprehensive **documentation** for the **`recommendation_engine.py`** script.
-
----
-
 # **Recommendation Engine Script Documentation**
 
 ## **Overview**
@@ -202,5 +198,3 @@ python recommendation_engine.py --programs program_details.json --preferences us
 ## **Conclusion**
 
 This script provides a **command-line tool** for generating program recommendations based on user-selected categories. It uses **TF-IDF** and **cosine similarity** to find programs that match the user’s preferences. The script is highly configurable via command-line arguments, making it suitable for a variety of use cases where user preferences need to be matched with available program data.
-
-Let me know if you need further modifications or additional features!
